@@ -73,6 +73,7 @@ Never publish without editing. Budget for at least one round of professional edi
 - **Grammarly** — Good for grammar basics (free tier available)
 - **Hemingway Editor** — Readability and sentence complexity (free online)
 - **AutoCrit** — Fiction-specific editing analysis
+- **[Revise AI](https://www.revise.net/)** — Line editor with grammar, clarity, and style suggestions as tracked changes you accept or reject (free plan 2,000 words/month, no credit card)
 
 ## Book Formatting
 
